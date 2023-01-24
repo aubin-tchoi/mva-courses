@@ -1,0 +1,12 @@
+[submodule "deep_learning_and_signal_processing"]
+	path = deep_learning_and_signal_processing
+	url = https://github.com/aubin-tchoi/audio-speech-denoising
+[submodule "convex_optimization"]
+	path = convex_optimization
+	url = https://github.com/aubin-tchoi/lasso_interior_points
+[submodule "npm3d"]
+	path = npm3d
+	url = https://github.com/aubin-tchoi/npm3d
+[submodule "optimal_transport"]
+	path = optimal_transport
+	url = https://github.com/aubin-tchoi/quad-reg-graph-ot
