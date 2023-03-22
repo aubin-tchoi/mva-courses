@@ -10,3 +10,15 @@
 [submodule "optimal_transport"]
 	path = optimal_transport
 	url = https://github.com/aubin-tchoi/quad-reg-graph-ot
+[submodule "npm3d_mini_challenge"]
+	path = npm3d_mini_challenge
+	url = https://github.com/aubin-tchoi/npm3d-mini-challenge
+[submodule "deep_reinforcement_learning"]
+	path = deep_reinforcement_learning
+	url = https://github.com/aubin-tchoi/flappy_bird
+[submodule "npm3d_project"]
+	path = npm3d_project
+	url = https://github.com/aubin-tchoi/shot-fpfh
+[submodule "sequential_learning"]
+	path = sequential_learning
+	url = https://github.com/aubin-tchoi/sequential-learning
